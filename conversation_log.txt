@@ -1,0 +1,5 @@
+Conversation Log
+
+You: hello
+Dark Jarvis: An error occurred. Please try again later.
+
